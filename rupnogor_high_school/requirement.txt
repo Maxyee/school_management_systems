@@ -1,0 +1,26 @@
+PHP VERSION 8.0.30
+
+
+
+Go to this url from the project
+
+C:\Users\Md Julhas Hossain\Desktop\school_management_systems\rupnogor_high_school\rupnogor\application\third_party\omnipay\vendor\google\apiclient-services\src
+
+
+then extract the zip file called `BeyondCorp`
+extract another file `CertificateAuthorityService`
+extract another file `CloudMachineLearningEngine`
+extract another file `CloudMemorystoreforMemcached`
+extract another file `CloudSearch`
+extract another file `Contactcenterinsights`
+`Contentwarehouse`
+`Dialogflow`
+`GoogleAnalyticsAdmin`
+`Integrations`
+`ManagedServiceforMicrosoftActiveDirectoryConsumerAPI`
+`OSConfig`
+`PaymentsResellerSubscription`
+`Playdeveloperreporting`
+`RecaptchaEnterprise`
+`RecommendationsAI`
+`Safebrowsing`
